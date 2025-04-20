@@ -71,7 +71,7 @@ TypeFlow strikes the perfect balance between Python's dynamic nature and the saf
 ## Installation
 
 ```bash
-pip install typeflow
+pip install python-typeflow
 ```
 
 <p align="center">
